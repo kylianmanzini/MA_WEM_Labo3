@@ -1,0 +1,11 @@
+numpy
+ipykernel
+ollama
+llama-index-llms-ollama
+llama-index
+llama-index-readers-web
+llama-index-readers-file
+llama-index-embeddings-huggingface
+chainlit
+pypdf
+selenium
